@@ -8,9 +8,9 @@ assignees: ''
 ---
 
 ## Game Information: ##
-***Forge Version:***
+***Forge Version:*** <forge-version>
 
-***'Boat16x' Version:***
+***'Boat16x' Version:*** <boat16x-version>
 
 ## Describe the Issue: ##
 *Please be as detailed as possible.*
