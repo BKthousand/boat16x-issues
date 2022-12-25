@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Report an Issue!
+about: Give a Suggestion!
 title: '[FEATURE] <title>'
 labels: feature
 assignees: ''
